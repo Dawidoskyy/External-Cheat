@@ -1,0 +1,10 @@
+﻿  menu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Dawid\Desktop\Inverse\Inverse.cc free\Just an external hack\main.hpp(16,1): warning C4005: "DIRECTINPUT_VERSION": ponowna definicja makra
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : zobacz poprzednią definicję „DIRECTINPUT_VERSION”
+  Trwa generowanie kodu
+  2 of 1334 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Just an external hack.vcxproj -> C:\Users\Dawid\Desktop\Inverse\Inverse.cc free\Release\Just an external hack.exe
